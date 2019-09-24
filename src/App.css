@@ -1,0 +1,58 @@
+/* The Stack: Negative Impacts of Digital Life
+by Janice Luo */
+
+body{
+  background-color: rgb(121, 148, 158);
+}
+
+h1{
+  font-family: 'Oxygen', sans-serif;
+  color: rgb(19, 19, 19);
+  margin-block-start: 20px;
+  margin-block-end: 20px;
+  margin-inline-start: 120px;
+
+}
+body{
+  font-family: 'Oxygen', sans-serif;
+  color: rgb(34, 22, 4);
+}
+
+
+.content{
+  background-color: rgb(250, 243, 224);
+  padding-block-start: 20px;
+  padding-block-end: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+  margin-left: 120px;
+  margin-right: 120px;
+}
+
+.stackgallery{
+  display: flex;
+  justify-content: space-between;
+}
+
+.stackgallery1{
+  display: flex;
+  justify-content: space-between;
+}
+
+.box{
+  background-color: rgb(187, 187, 187);
+  width: 290px;
+  height: 290px;   
+}
+
+.box1{
+  background-color: rgb(187, 187, 187);
+  width: 290px;
+  height: 290px;    
+}
+
+img{
+  padding-inline-start: 35px;
+  width: 220px;
+  height: 220px;
+}
